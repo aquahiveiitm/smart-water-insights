@@ -78,13 +78,13 @@ const day2: Session[] = [
     type: "Lecture",
   },
   {
-    time: "09:35 AM – 10:10 AM",
+    time: "09:35 AM – 10:20 AM",
     title: "Optimization and Mathematical Modeling: Foundations and Applications",
-    speaker: "Arvind Kumar, Director, Optym",
+    speaker: "Dr. Priyam Bajpai, DecisionOpt",
     type: "Lecture",
   },
   {
-    time: "10:10 AM – 10:45 AM",
+    time: "10:20 AM – 10:45 AM",
     title: "Information Design and Data Visualization for Scientific Insight",
     speaker: "Dr. Raja Biswas",
     type: "Lecture",
