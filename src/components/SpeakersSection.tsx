@@ -85,12 +85,12 @@ const speakers: Speaker[] = [
     talkTitle: "AI, Machine Learning, and Data Science for Chemistry/Health",
   },
   {
-    name: "Mr. Arvind Kumar",
-    position: "Director",
-    affiliation: "Optym",
-    image: "/speaker-arvind.png",
+    name: "Dr. Priyam Bajpai",
+    position: "Senior Data Scientist - Operations Research",
+    affiliation: "DecisionOpt",
+    image: "/speaker-priyam.png",
     tags: ["Speaker"],
-    website: "https://www.linkedin.com/in/arviphd/?originalSubdomain=in",
+    website: "https://www.linkedin.com/in/priyam-bajpai-ph-d-93448b7a/",
     talkTitle: "Optimization and Mathematical Modeling: Foundations and Applications",
   },
   {
@@ -130,7 +130,7 @@ const speakers: Speaker[] = [
   },
   {
     name: "Dr. G. Velmurugan",
-    position: "Researcher",
+    position: "Scientist",
     affiliation: "KMCH Research Foundation",
     image: "/speaker-velmurugan.png",
     tags: ["Speaker", "Organiser"],
