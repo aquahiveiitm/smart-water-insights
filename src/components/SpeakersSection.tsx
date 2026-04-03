@@ -103,7 +103,7 @@ const speakers: Speaker[] = [
     talkTitle: "Data-Driven Strategies for Optimal Disinfection in Rural Water Supply Systems",
   },
   {
-    name: "Dr. Raja Biswas",
+    name: "Mr. Raja Biswas",
     position: "Service Designer & Data Visualization Specialist",
     affiliation: "Independent Researcher",
     image: "/speaker-raja.png",
