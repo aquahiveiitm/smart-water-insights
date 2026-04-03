@@ -85,15 +85,9 @@ const day2: Session[] = [
     type: "Lecture",
   },
   {
-    time: "10:20 AM – 10:45 AM",
+    time: "10:20 AM – 11:05 AM",
     title: "Information Design and Data Visualization for Scientific Insight",
-    speaker: "Dr. Raja Biswas",
-    type: "Lecture",
-  },
-  {
-    time: "10:45 AM – 11:05 AM",
-    title: "Introduction to Day 2 Practical Session & Instructions",
-    speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
+    speaker: "Mr. Raja Biswas",
     type: "Lecture",
   },
   { time: "11:05 AM – 11:20 AM", title: "Tea Break", type: "Break" },
