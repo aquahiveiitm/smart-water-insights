@@ -19,9 +19,20 @@ const day1: Session[] = [
     type: "Ceremony",
   },
   {
-    time: "09:10 AM – 09:45 AM",
+    time: "09:10 AM – 09:30 AM",
     title: "Vision of People's Water Data",
     speaker: "Prof. Thalappil Pradeep, IIT Madras",
+    type: "Lecture",
+  },
+  {
+    time: "09:30 AM – 09:40 AM",
+    title: "The Water Intelligence Imperative",
+    speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
+    type: "Lecture",
+  },
+  {
+    time: "09:40 AM – 09:45 AM",
+    title: "Open Q&A — Clarifications on Practicals",
     type: "Lecture",
   },
   {
@@ -36,13 +47,13 @@ const day1: Session[] = [
     speaker: "Prof. Hadas Mamane, Tel-Aviv University",
     type: "Lecture",
   },
+  { time: "10:55 AM – 11:10 AM", title: "Tea Break", type: "Break" },
   {
-    time: "10:55 AM – 11:10 AM",
+    time: "11:10 AM – 11:25 AM",
     title: "The Hidden Ecology of Artificial Intelligence and Data Science",
     speaker: "Dr. G. Velmurugan, KMCH Research Foundation",
     type: "Lecture",
   },
-  { time: "11:10 AM – 11:25 AM", title: "Tea Break", type: "Break" },
   {
     time: "11:25 AM – 01:00 PM",
     title: "Demonstration of a Decentralized Household UV Disinfection Unit",
@@ -138,13 +149,13 @@ const day3: Session[] = [
     speaker: "Prof. Manoj K. Tiwari, IIT Kanpur",
     type: "Lecture",
   },
+  { time: "10:45 AM – 11:00 AM", title: "Tea Break", type: "Break" },
   {
-    time: "10:45 AM – 11:05 AM",
+    time: "11:00 AM – 11:20 AM",
     title: "Introduction to Day 3 Practical Session & Instructions",
     speaker: "Dr. Vamanie, Mr. Sudhir & Team, IIT Madras",
     type: "Lecture",
   },
-  { time: "11:05 AM – 11:20 AM", title: "Tea Break", type: "Break" },
   {
     time: "11:20 AM – 01:00 PM",
     title: "Tutorial on Gen AI Use Cases in Water Quality",
