@@ -13,9 +13,14 @@ interface Session {
 
 const day1: Session[] = [
   {
-    time: "08:30 AM – 09:10 AM",
+    time: "08:30 AM – 09:00 AM",
     title: "Inauguration",
     speaker: "Prof. Thalappil Pradeep, Prof. Hadas Mamane, Prof. Rabibrata Mukherjee & others",
+    type: "Ceremony",
+  },
+  {
+    time: "09:00 AM – 09:10 AM",
+    title: "Photo Session",
     type: "Ceremony",
   },
   {
